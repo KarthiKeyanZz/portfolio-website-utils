@@ -1,0 +1,30 @@
+[
+  {
+    "name": "OrbitFlow",
+    "description": "A distributed workflow orchestration engine built from scratch",
+    "tech_stack": ["Java", "SpringBoot", "Kafka", "Redis", "PostgreSQL", "HTML", "CSS", "Docker"],
+    "link": "https://github.com/KarthiKeyanZz/orbitflow",
+    "status": "Completed"
+  },
+  {
+    "name": "SecureVault",
+    "description": "Secure file storage system using FastAPI with encryption, blockchain integrity, and multi-interface access support",
+    "tech_stack": ["Python", "FastAPI", "PostgreSQL", "SQLAlchemy", "Cryptography (AES)", "JWT", "Passlib", "Typer (CLI)", "HTML", "CSS", "JavaScript", "Docker"],
+    "link": "https://github.com/KarthiKeyanZz/securevault",
+    "status": "Completed"
+  },
+  {
+    "name": "DevBrain",
+    "description": "An AI-powered observability and debugging platform for distributed systems with real-time log ingestion, anomaly detection, and deep learning-based root cause analysis.",
+    "tech_stack": ["Python", "FastAPI", "PostgreSQL", "Elasticsearch", "Redis", "Kafka", "Docker", "PyTorch", "React", "Tailwind CSS"],
+    "link": "https://github.com/KarthiKeyanZz/devbrain",
+    "status": "Completed"
+  },
+  {
+    "name": "PulseIQ",
+    "description": "A real-time decision intelligence engine that ingests and analyzes live data streams. Computes rolling metrics and detects anomalies instantly without heavy cloud dependencies.",
+    "tech_stack": ["Python", "FastAPI", "React", "Tailwind", "PostgreSQL", "WebSockets"],
+    "link": "https://github.com/KarthiKeyanZz/pulseiq",
+    "status": "Completed"
+  }
+]

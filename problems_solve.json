@@ -1,0 +1,30 @@
+[
+  {
+    "projectId": "orbitflow",
+    "title": "Scalable Execution & Fault Tolerance",
+    "problem": "Jobs remain stuck in 'CREATED' status and lack automated retry loops when workers crash.",
+    "solution": "Implemented a distributed, resilient background engine using Kafka and Redis with exponential backoff.",
+    "iconColor": "text-indigo-400"
+  },
+  {
+    "projectId": "securevault",
+    "title": "Data Immutability & Secure Sharing",
+    "problem": "Need for securely storing files while preserving cryptographic proofs of integrity against tampering.",
+    "solution": "Leveraged AES for robust encryption and integrated a blockchain-based mechanism to guarantee file verification.",
+    "iconColor": "text-emerald-400"
+  },
+  {
+    "projectId": "devbrain",
+    "title": "Real-time Telemetry Bottlenecks",
+    "problem": "High-volume log ingestion was slowing down analysis and delaying critical root-cause alerting.",
+    "solution": "Restructured to use Elasticsearch and Kafka pipelines, and integrated deep-learning algorithms for rapid anomaly detection.",
+    "iconColor": "text-blue-400"
+  },
+  {
+    "projectId": "pulseiq",
+    "title": "Latency in Live Processing",
+    "problem": "Analyzing high-frequency live data streams and computing rolling metrics with cloud delays.",
+    "solution": "Built a Python-based edge decision engine utilizing WebSockets and instant rolling computations to eliminate round-trip latency.",
+    "iconColor": "text-purple-400"
+  }
+]

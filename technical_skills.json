@@ -1,0 +1,49 @@
+{
+  "heading": "Tech",
+  "subheading": "Stack",
+  "description": "A comprehensive overview of the languages, tools, and specialized AI models I use to build robust architectures.",
+  "categories": [
+    {
+      "title": "Programming Languages",
+      "iconName": "Code2",
+      "iconColor": "text-blue-400",
+      "skills": ["Python", "Java", "JavaScript", "Go", "SQL", "HTML5", "CSS3"]
+    },
+    {
+      "title": "Backend Frameworks",
+      "iconName": "Server",
+      "iconColor": "text-indigo-400",
+      "skills": ["FastAPI", "Spring Boot", "Node.js", "Express.js", "Django"]
+    },
+    {
+      "title": "AI / Machine Learning",
+      "iconName": "Brain",
+      "iconColor": "text-purple-400",
+      "skills": ["RAG", "LLMs", "Embeddings", "Model Training", "BERT", "RoBERTa", "CNN"]
+    },
+    {
+      "title": "Data Analytics",
+      "iconName": "LineChart",
+      "iconColor": "text-emerald-400",
+      "skills": ["Pandas", "NumPy"]
+    },
+    {
+      "title": "Infrastructure & Tools",
+      "iconName": "Cloud",
+      "iconColor": "text-orange-400",
+      "skills": ["Docker", "Redis", "RabbitMQ", "MinIO", "AWS", "Digital Ocean", "Linux", "Git", "GitHub", "CI/CD Workflows"]
+    },
+    {
+      "title": "AI Usage & Prompting",
+      "iconName": "Sparkles",
+      "iconColor": "text-amber-400",
+      "skills": ["Antigravity", "Claude", "ChatGPT", "Prompt Engineering"]
+    },
+    {
+      "title": "Applied Cryptography",
+      "iconName": "Shield",
+      "iconColor": "text-rose-500",
+      "skills": ["RSA", "Ed25519 (EdDSA)", "AES-GCM", "ECDSA", "SHA-256"]
+    }
+  ]
+}

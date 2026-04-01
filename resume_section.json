@@ -1,0 +1,39 @@
+{
+  "heading": "My",
+  "subheading": "Resume",
+  "description": "Tune into my technical broadcast for a quick overview, or simply grab the hard copy.",
+  "downloadUrl": "/resume.pdf",
+  "channels": [
+    {
+      "type": "title",
+      "heading": "KarthiKeyan",
+      "subheading": "Backend Architect & AI"
+    },
+    {
+      "type": "mission",
+      "content": "I've architected fault-tolerant systems using Java, and Python, specializing in scalable APIs and distributed ML production."
+    },
+    {
+      "type": "protocols",
+      "title": "Core Protocols",
+      "items": [
+        {
+          "command": "whoami",
+          "output": "KarthiKeyan - AI Enthusiast & Backend Engineer"
+        },
+        {
+          "command": "cat core_competencies.txt",
+          "output": "[ 'AI', 'Machine Learning', 'API Design', 'DevOps' ]"
+        },
+        {
+          "command": "./status.sh",
+          "output": "System operating smoothly. Ready for new complex challenges."
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "email": "karthikeyanp.dev@gmail.com",
+    "location": "Ramanathapuram, India"
+  }
+}

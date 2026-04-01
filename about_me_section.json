@@ -1,0 +1,25 @@
+{
+  "heading": "About",
+  "subheading": "Me",
+  "description": "I am driven by a deep curiosity for how complex systems operate and a passion for engineering simple, elegant solutions. Whether configuring a high-throughput message queue or fine-tuning an NLP model, my goal is to build software that creates tangible value.",
+  "cards": [
+    {
+      "iconName": "Terminal",
+      "iconColor": "text-indigo-400",
+      "title": "Backend Architecture",
+      "description": "Designing resilient systems, APIs, and microservices that can scale elegantly with growing user bases."
+    },
+    {
+      "iconName": "Lightbulb",
+      "iconColor": "text-amber-400",
+      "title": "AI Integration",
+      "description": "Infusing traditional applications with NLP and deep learning models to unlock intelligent automation."
+    },
+    {
+      "iconName": "Code2",
+      "iconColor": "text-purple-400",
+      "title": "Clean Code",
+      "description": "Committed to delivering readable, maintainable, and thoroughly tested code that solves real problems."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "heading": "Currently",
+  "subheading": "Learning",
+  "description": "A roadmap of the technologies and domains I am actively exploring to continuously expand my engineering boundaries.",
+  "roadmap": [
+    {
+      "title": "Data Structures & Algorithms",
+      "focus": "Java Implementation",
+      "description": "Mastering core CS fundamentals, optimizing time complexity, and preparing for high-level technical challenges.",
+      "iconName": "Binary",
+      "iconColor": "text-blue-400",
+      "color": "border-blue-500",
+      "bg": "bg-blue-500/20"
+    },
+    {
+      "title": "Full Stack Web Development",
+      "focus": "End-to-End Architecture",
+      "description": "Bridging the gap between robust backends and seamless, interactive frontend interfaces.",
+      "iconName": "LayoutTemplate",
+      "iconColor": "text-emerald-400",
+      "color": "border-emerald-500",
+      "bg": "bg-emerald-500/20"
+    },
+    {
+      "title": "Machine Learning Algorithms",
+      "focus": "Underlying Math & Models",
+      "description": "Deep dive into the statistical foundations and practical applications of modern ML and neural networks.",
+      "iconName": "BrainCircuit",
+      "iconColor": "text-purple-400",
+      "color": "border-purple-500",
+      "bg": "bg-purple-500/20"
+    },
+    {
+      "title": "System Design",
+      "focus": "Scalability & Availability",
+      "description": "Architecting large-scale, fault-tolerant distributed systems that handle millions of concurrent requests.",
+      "iconName": "Network",
+      "iconColor": "text-orange-400",
+      "color": "border-orange-500",
+      "bg": "bg-orange-500/20"
+    },
+    {
+      "title": "CyberSecurity",
+      "focus": "Ethical Hacking & Defense",
+      "description": "Understanding system vulnerabilities, penetration testing, and writing secure, bulletproof code from day one.",
+      "iconName": "ShieldAlert",
+      "iconColor": "text-red-500",
+      "color": "border-red-500",
+      "bg": "bg-red-500/20",
+      "isCurrent": true
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "heading": "Area of",
+  "subheading": "Interest",
+  "description": "The subjects that keep my curiosity alive outside of intense development.",
+  "quote": "\"I believe that exploring the boundaries of hardware and space exploration deeply influences how I architect scalable software.\"",
+  "interests": [
+    { "name": "AI Models", "iconName": "Cpu", "iconColor": "text-indigo-400" },
+    { "name": "Open Source", "iconName": "Code", "iconColor": "text-purple-400" },
+    { "name": "Space Exploration", "iconName": "Telescope", "iconColor": "text-blue-400" },
+    { "name": "Super Computers", "iconName": "Zap", "iconColor": "text-amber-400" },
+    { "name": "PC Building", "iconName": "Wrench", "iconColor": "text-slate-400" },
+    { "name": "Gadget Testing", "iconName": "MonitorSmartphone", "iconColor": "text-emerald-400" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "movies": ["Iron Man", "Godzilla", "James Gunn Superman", "Interstellar"],
+  "characters": [
+    {
+      "name": "Iron Man",
+      "color": "text-amber-400",
+      "subtitle": "Genius. Resilience. Tech.",
+      "description": "A testament to building your way out of any problem."
+    },
+    {
+      "name": "Sherlock Holmes",
+      "color": "text-indigo-400",
+      "subtitle": "Brilliant. Observant. Unconventional.",
+      "description": "Solving the impossible through relentless deduction."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "heading": "Hobbies &",
+  "subheading": "Favorites",
+  "description": "When I'm not writing code or debugging architecture, here is where I spend my time.",
+  "gaming": {
+    "description": "I love immersive storytelling and high-stakes competition across PC and console.",
+    "story": ["RDR2", "Skyrim", "GTA V", "AC (Ezio Arc)"],
+    "competitive": ["CS:GO", "PUBG", "War Thunder"]
+  },
+  "reading": [
+    { "text": "Technology & Engineering Books", "color": "text-purple-400" },
+    { "text": "High Fantasy Novels", "color": "text-indigo-400" },
+    { "text": "Sci-Fi Japanese Manga", "color": "text-blue-400" }
+  ],
+  "crypto": {
+    "description": "Fascinated by decentralized finance and block-chain ecosystems. Actively tracking crypto markets, tokenomics, and the underlying algorithms powering digital assets."
+  },
+  "pcBuilding": {
+    "description": "Strong passion for computer hardware. I have built various types of PCs, completely configured from scratch.",
+    "bullets": [
+      { "text": "Medium Rigs & Gaming Rigs", "color": "text-cyan-400" },
+      { "text": "Cable Management", "color": "text-blue-400" },
+      { "text": "Performance Tuning", "color": "text-teal-400" }
+    ]
+  }
+}

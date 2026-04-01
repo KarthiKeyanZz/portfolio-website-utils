@@ -1,0 +1,23 @@
+[
+  {
+    "type": "work",
+    "title": "Software Developer (Freelance)",
+    "organization": "Global Tech Professional, UK",
+    "date": "Nov 2025 - Present",
+    "description": "Engineered scalable Python backend services, developed intelligent AI chatbots, and constructed robust health-checking systems for large-scale SAP environments."
+  },
+  {
+    "type": "internship",
+    "title": "AI Developer Intern",
+    "organization": "Code Technologies, India",
+    "date": "May 2025 - Nov 2025",
+    "description": "Applied core AI/ML algorithms to build practical models and deployed foundational machine learning projects."
+  },
+  {
+    "type": "internship",
+    "title": "Data Analyst Intern",
+    "organization": "Marcello Tech, India",
+    "date": "Aug 2024 - Oct 2024",
+    "description": "Processed and analyzed large datasets using Pandas and NumPy to produce actionable data visualizations."
+  }
+]
