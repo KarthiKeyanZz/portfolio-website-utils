@@ -1,0 +1,67 @@
+{
+  "heading": "Services",
+  "subheading": "I Offer",
+  "description": "End-to-end engineering services for startups and businesses: from product development and scalable backend systems to AI-powered features, cloud deployment, and security-focused delivery.",
+  "services": [
+    {
+      "title": "Web Development",
+      "summary": "Modern, fast, and scalable websites and web applications.",
+      "items": [
+        "Static and dynamic websites",
+        "Full-stack web apps (MERN or custom)",
+        "Startup/product landing pages",
+        "Admin dashboards and internal tools"
+      ]
+    },
+    {
+      "title": "Backend Engineering (Python/Java)",
+      "summary": "Reliable backend systems built for scale and maintainability.",
+      "items": [
+        "REST APIs with FastAPI/Django/Spring Boot",
+        "JWT/OAuth authentication and authorization",
+        "Database design and optimization",
+        "Microservices and system integrations"
+      ]
+    },
+    {
+      "title": "DevOps and Cloud Delivery",
+      "summary": "Automated pipelines and production-ready deployments.",
+      "items": [
+        "CI/CD with GitHub Actions",
+        "Docker containerization",
+        "Linux server setup and optimization",
+        "Cloud deployment (AWS, DigitalOcean, others)"
+      ]
+    },
+    {
+      "title": "AI and ML Solutions",
+      "summary": "Intelligent features integrated into real applications.",
+      "items": [
+        "ML model development and inference",
+        "NLP and chatbot workflows",
+        "Recommendation systems",
+        "Model integration into production apps"
+      ]
+    },
+    {
+      "title": "SaaS and Startup MVPs",
+      "summary": "From idea to launch with scalable SaaS architecture.",
+      "items": [
+        "SaaS MVP planning and development",
+        "Multi-tenant architecture",
+        "Subscription and billing flows",
+        "Role-based access and user management"
+      ]
+    },
+    {
+      "title": "Security and Monitoring",
+      "summary": "Application hardening and observability from day one.",
+      "items": [
+        "API and auth security best practices",
+        "Basic security audits",
+        "Health checks and uptime monitoring",
+        "Logging, alerting, and failure recovery"
+      ]
+    }
+  ]
+}
