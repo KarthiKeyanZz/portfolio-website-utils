@@ -92,6 +92,13 @@
       "tech_stack": ["Python", "FastAPI", "React", "Tailwind", "PostgreSQL", "WebSockets", "Celery", "Redis", "RabbitMQ", "Groq LLM"],
       "link": "https://github.com/KarthiKeyanZz/athenacore",
       "status": "Completed"
+    },
+    {
+      "name": "Validex",
+      "description": "A comprehensive test validation and execution platform with real-time reporting. Features JWT-based authentication, project management, automated test execution with data generation, and detailed report analytics through a responsive web dashboard.",
+      "tech_stack": ["Python", "FastAPI", "Java", "Spring Boot", "React", "Vite", "Tailwind", "PostgreSQL", "JWT", "Docker", "Docker Compose"],
+      "link": "https://github.com/KarthiKeyanZz/validex",
+      "status": "Completed"
     }
   ]
 }
